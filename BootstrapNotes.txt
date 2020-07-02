@@ -1,0 +1,8 @@
+justify-content-center = position content
+
+my-1 = margin up and down
+mx-1 = margin left and right
+py-1 = margin up and down
+px-1 = margin left and right
+
+text-muted = mute text
